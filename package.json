@@ -1,5 +1,8 @@
 {
   "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "@line/bot-sdk": "^9.5.3",
     "axios": "^1.7.9",
